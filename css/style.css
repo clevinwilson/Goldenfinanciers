@@ -1,9 +1,4 @@
-/*--
-	Author: W3Layouts
-	Author URL: http://w3layouts.com
-	License: Creative Commons Attribution 3.0 Unported
-	License URL: http://creativecommons.org/licenses/by/3.0/
---*/
+
 /*-- Reset-Code --*/
 
 body {
@@ -1263,7 +1258,7 @@ div#stats h3.heading-agileinfo {
 		margin: 0 .6em;
 	}
 	.w3layouts-logo h1 a {
-		font-size: 36px;
+		font-size: 23px;
 	}
 	.slider {
 		width: 80%;
