@@ -1426,6 +1426,7 @@ div#stats h3.heading-agileinfo {
 	}
 	.navbar-toggle {
 		border-radius: 0px;
+		margin-top: -69px;
 	}
 	.navbar-default .navbar-toggle .icon-bar {
 		background-color: #fff;
