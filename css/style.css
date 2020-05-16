@@ -1449,7 +1449,7 @@ div#stats h3.heading-agileinfo {
 	div#bs-example-navbar-collapse-1 {
 		position: absolute;
 		width: 100%;
-		background: rgba(255, 70, 79, 0.7);
+		background: #337ab7;
 		z-index: 999;
 	}
 	.choice h3 {
